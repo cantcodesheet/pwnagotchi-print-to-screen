@@ -2,7 +2,7 @@
 Sample code to show how to use a plugin to print directly to a Pwnagotchi screen.
 
 
-Credit goes to:  hannadiamond
+__Credit goes to:__  ```hannadiamond```
 
 https://github.com/hannadiamond/pwnagotchi-plugins
 
@@ -10,7 +10,7 @@ It was their code that allowed me to figure out how to print text directly to th
 
 # Setup
 
-1) Copy over ```printp.py``` into your custom plugins directory
+1) Copy over ```printp.py``` into your custom plugins directory.
 
 2) In your ```config.toml``` file add:
 
