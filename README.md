@@ -20,7 +20,7 @@ main.plugins.printp.enabled = true
 main.plugins.printp.t0_x_coord = 0
 main.plugins.printp.t0_y_coord = 13  #places T0 label right above the name of pwnagotchi
 main.plugins.printp.tn_x_coord = 65  #places Tn label adjacent/to the right of T0 label 
-main.plugins.printp.tn_y_coord = 13  #places T0 label right above the name of pwnagotchi
+main.plugins.printp.tn_y_coord = 13  #places Tn label right above the name of pwnagotchi
 
 ```
 
